@@ -1,3 +1,5 @@
 env:
   browser: true
 extends: '@cybozu'
+rules:
+  semi: error
